@@ -1,6 +1,6 @@
-# Hi there! 
-# I'm **Anushka Mondal**
-### A Curious Tech Explorer from India 🇮🇳
+# Hi, I'm Anushka Mondal 👋
+# B.Tech CSE (Data Science & AI) student focused on building practical systems and developing strong problem-solving skills.
+
 
 ---
 
@@ -9,10 +9,10 @@
 ---
 
 ## 🚀 About Me
-- 🌱 **Currently Learning**: Advanced Python, Data Structures & Algorithms, and diving into AI/ML concepts.
-- 👯 **Looking to Collaborate On**: Innovative projects in Python, Java, AI/ML, and robotics/embedded systems.
-- 💬 **Ask Me About**: Artificial Intelligence, Coding, Startups and Creative Problem Solving.
-- 📫 **Reach Me At**: [anushkamondal985@gmail.com](mailto:anushkamondal985@gmail.com)
+- Currently working on Data Structures, Advanced Python, and core AI/ML concepts
+  Building projects in robotics and embedded systems (including PID-based control systems)
+  Interested in software development, machine learning, and system-level thinking
+  Open to collaboration on Python, Java, AI/ML, and hardware-based projects
 
 ---
 
