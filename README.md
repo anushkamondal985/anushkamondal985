@@ -18,63 +18,41 @@
 
 ## 💻 Technical Skills 
 
-### Prograaming Languages  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+**Languages**  
+![Python](https://img.shields.io/badge/Python-Soft--Blue?style=flat-square)
+![Java](https://img.shields.io/badge/Java-Soft--Orange?style=flat-square)
+![C](https://img.shields.io/badge/C-Soft--Grey?style=flat-square)
 
----
 
-### Core Areas  
-![DSA](https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-blue?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-green?style=for-the-badge)
-![Robotics](https://img.shields.io/badge/Robotics-orange?style=for-the-badge)
+**Core Areas**  
+![DSA](https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-lightgrey?style=flat-square)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-lightgrey?style=flat-square)
+![Robotics](https://img.shields.io/badge/Robotics-lightgrey?style=flat-square)
 
----
+ 
+**Tools & Tech**  
+![Git](https://img.shields.io/badge/Git-lightgrey?style=flat-square)
+![GitHub](https://img.shields.io/badge/GitHub-lightgrey?style=flat-square)
+![VS Code](https://img.shields.io/badge/VS%20Code-lightgrey?style=flat-square)
+![Arduino](https://img.shields.io/badge/Arduino-lightgrey?style=flat-square)
+![Jupyter](https://img.shields.io/badge/Jupyter-lightgrey?style=flat-square)
+![Anaconda](https://img.shields.io/badge/Anaconda-lightgrey?style=flat-square)
+![Windows](https://img.shields.io/badge/Windows-lightgrey?style=flat-square)
+![Command Line](https://img.shields.io/badge/Command%20Line-lightgrey?style=flat-square)
 
-### Tools & Technologies  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![L298N](https://img.shields.io/badge/L298N-Motor%20Driver-grey?style=for-the-badge)
-![IR Sensors](https://img.shields.io/badge/IR%20Sensors-black?style=for-the-badge)
-<!-- 
-### Databases  
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#) [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
 
-### Cloud Systems  
-[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)](#) [![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](#)
--->
+## 📫 Contact Me  
 
----
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:anushkamondal985@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
 
-## 🛠️ Specialized Tools
-
-### AI/ML Tools  
-[![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#) [![Claude](https://img.shields.io/badge/Claude-FFCC00?logo=anthropic&logoColor=black)](#) [![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)](#) [![Copilot](https://img.shields.io/badge/Copilot-6e5494?logo=github-copilot&logoColor=white)](#) [![Perplexity](https://img.shields.io/badge/Perplexity-FF4500?logo=chatgpt&logoColor=white)](#)
-
-### Design  
-[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=canva&logoColor=white)](#) [![Excalidraw](https://img.shields.io/badge/Excalidraw-1F1F1F?logo=excalidraw&logoColor=white)](#) 
-
-### Documentation  
-[![GitHub](https://img.shields.io/badge/GitHub%20-121013?logo=github&logoColor=white)](#) 
-
----
-
-## 🌐 Connect with Me
-## 📫 Contact  
-
-📧 [anushkamondal985@gmail.com](mailto:anushkamondal985@gmail.com)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:anushkamondal985@gmail.com) [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anushkamondal985) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/anushkamondal985) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/anushkamondal985_)  
-
----
 
 ## 📊 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anushkamondal985&layout=compact&theme=radical)  
 ![GitHub Streak](https://streak-stats.demolab.com?user=anushkamondal985&theme=radical&hide_border=true&border_radius=8)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anushkamondal985&show_icons=true&theme=radical)
 
----
 
 <!-- 
 ## 💻 My workspace
