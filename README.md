@@ -4,7 +4,7 @@ B.Tech CSE (Data Science & AI) student focused on building practical systems and
 
 ---
 
-> I see technology not just as tools, but as companions in solving real-world challenges and unlocking creativity.
+# I see technology not just as tools, but as companions in solving real-world challenges and unlocking creativity.
 
 ---
 
