@@ -16,17 +16,28 @@
 
 ---
 
-## 💻 Technical Skills
+## 💻 Technical Skills 
 
-### Programming Languages  
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#) [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#) [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#) [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#) [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#) [![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#)
+### Prograaming Languages  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-### Frameworks, Libraries & Tools  
-[![Anaconda](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=fff)](#) [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)](#) [![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)](#) 
+---
 
-### DevOps Tools  
-[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#) [![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-111111?logo=windows-terminal&logoColor=white)](#) [![CMD](https://img.shields.io/badge/CMD-0078D6)](#) <!-- [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#) [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)](#) -->
+### Core Areas  
+![DSA](https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-blue?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-green?style=for-the-badge)
+![Robotics](https://img.shields.io/badge/Robotics-orange?style=for-the-badge)
 
+---
+
+### Tools & Technologies  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![L298N](https://img.shields.io/badge/L298N-Motor%20Driver-grey?style=for-the-badge)
+![IR Sensors](https://img.shields.io/badge/IR%20Sensors-black?style=for-the-badge)
 <!-- 
 ### Databases  
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#) [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
@@ -51,6 +62,9 @@
 ---
 
 ## 🌐 Connect with Me
+## 📫 Contact  
+
+📧 [anushkamondal985@gmail.com](mailto:anushkamondal985@gmail.com)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:anushkamondal985@gmail.com) [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anushkamondal985) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/anushkamondal985) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/anushkamondal985_)  
 
 ---
