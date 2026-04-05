@@ -1,5 +1,5 @@
 # Hi, I'm Anushka Mondal 👋
-# B.Tech CSE (Data Science & AI) student focused on building practical systems and developing strong problem-solving skills.
+  B.Tech CSE (Data Science & AI) student focused on building practical systems and developing strong problem-solving skills.
 
 
 ---
@@ -10,9 +10,9 @@
 
 ## 🚀 About Me
 - Currently working on Data Structures, Advanced Python, and core AI/ML concepts
-  Building projects in robotics and embedded systems (including PID-based control systems)
-  Interested in software development, machine learning, and system-level thinking
-  Open to collaboration on Python, Java, AI/ML, and hardware-based projects
+- Building projects in robotics and embedded systems (including PID-based control systems)
+- Interested in software development, machine learning, and system-level thinking
+- Open to collaboration on Python, Java, AI/ML, and hardware-based projects
 
 ---
 
