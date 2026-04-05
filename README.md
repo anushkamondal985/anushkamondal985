@@ -16,36 +16,35 @@
 
 ---
 
-## 💻 Technical Skills 
+## 🛠 Technical Skills  
 
-**Languages**  
-![Python](https://img.shields.io/badge/Python-Soft--Blue?style=flat-square)
-![Java](https://img.shields.io/badge/Java-Soft--Orange?style=flat-square)
-![C](https://img.shields.io/badge/C-Soft--Grey?style=flat-square)
+### Languages  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
+---
 
-**Core Areas**  
-![DSA](https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-lightgrey?style=flat-square)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-lightgrey?style=flat-square)
-![Robotics](https://img.shields.io/badge/Robotics-lightgrey?style=flat-square)
+### Core Areas  
+![DSA](https://img.shields.io/badge/DSA-6A5ACD?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-2ECC71?style=for-the-badge)
+![Robotics](https://img.shields.io/badge/Robotics-E67E22?style=for-the-badge)
 
- 
-**Tools & Tech**  
-![Git](https://img.shields.io/badge/Git-lightgrey?style=flat-square)
-![GitHub](https://img.shields.io/badge/GitHub-lightgrey?style=flat-square)
-![VS Code](https://img.shields.io/badge/VS%20Code-lightgrey?style=flat-square)
-![Arduino](https://img.shields.io/badge/Arduino-lightgrey?style=flat-square)
-![Jupyter](https://img.shields.io/badge/Jupyter-lightgrey?style=flat-square)
-![Anaconda](https://img.shields.io/badge/Anaconda-lightgrey?style=flat-square)
-![Windows](https://img.shields.io/badge/Windows-lightgrey?style=flat-square)
-![Command Line](https://img.shields.io/badge/Command%20Line-lightgrey?style=flat-square)
+---
 
+### Tools & Tech  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 
 ## 📫 Contact Me  
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:anushkamondal985@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anushkamondal985@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
 
 
 ## 📊 GitHub Stats
